@@ -6,13 +6,13 @@ from datetime import datetime
 
 #Direcotorio del exe
 
-dir_script = "C:/Users/jesus/Documents/ZKMAKERS/BOT_DISCORD/carpetitas.exe"
+dir_script = "Escribir directorio"
 
 # Directorio de origen
-dir_origen = "C:/Users/jesus/Pictures/Screenshots"
+dir_origen = ""
 
 # Directorio de destino
-dir_destino = "C:/Users/jesus/Documents/pruebas"
+dir_destino = ""
 
 
 # Crea una instancia del programador de tareas
